@@ -1,3 +1,0 @@
-## CMS Writeup
-
-undefined
